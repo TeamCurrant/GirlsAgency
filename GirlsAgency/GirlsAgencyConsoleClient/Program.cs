@@ -1,23 +1,42 @@
 ﻿using System;
-using System.Linq;
-using GirlsAgencyOracle.Data;
+using System.IO.Compression;
 
 namespace GirlsAgencyConsoleClient
 {
-    using System.Collections.Generic;
-    using GirlsAgency.Model;
-    using GirlsAgency.Model.Enums;
-
-    using GirlsAgency.Data;
-
     class Program
     {
+
         static void Main()
         {
-            var context = new GirlsAgencyContext();
-         //   var girl = new Girl()
-           
-            Console.WriteLine(context.Customers.Count());
+            //var context = new GirlsAgencyContext();
+            //var girl = new Girl()
+            //{
+            //    FirstName = "Minka",
+            //    LastName = "Svirchoka",
+            //    Age = 18,
+            //    BreastSizeId = (int)BreastSizeEnum.Normal,
+            //    HairColorId = (int)HairColorEnum.Blonde,
+            //    PricePerHour = 80.0M,
+            //    Features = new HashSet<Feature>
+            //    {
+            //        new Feature {Name = GirlsFeaturesEnum.Felatio.ToString()},
+            //        new Feature {Name = GirlsFeaturesEnum.DoggyStyle.ToString()}
+            //    }
+            //};
+
+            const string zipPath = @"C:\Users\v.indzhev\Desktop\Bunker.zip";
+            const string extractPath = @"C:\Users\v.indzhev\Desktop\Bunker\";
+            ZipFile.ExtractToDirectory(zipPath, extractPath);
+
+
+            var test = ExcelReader.GetExcelInfo();
+            foreach (var t in test)
+            {
+                Console.WriteLine(t);
+            }
+
+            //context.Girls.Add(girl);
+            //context.SaveChanges();
             //Console.WriteLine(girlsCount);
         }
     }
