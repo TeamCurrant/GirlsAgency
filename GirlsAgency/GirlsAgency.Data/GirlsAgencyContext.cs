@@ -1,9 +1,11 @@
+using GirlsAgency.Repository.Contracts;
+
 namespace GirlsAgency.Data
 {
     using Model;
     using System.Data.Entity;
 
-    public class GirlsAgencyContext : DbContext
+    public class GirlsAgencyContext : DbContext , IContext
     {
         public GirlsAgencyContext(): base("GirlsAgencyContext") { }
 
@@ -11,6 +13,10 @@ namespace GirlsAgency.Data
 
         public virtual DbSet<Customer> Customers { get; set; }
 
-    }
+        public void SaveChanges()
+        {
+            base.SaveChanges();
+        }
 
+    }
 }

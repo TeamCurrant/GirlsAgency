@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="FileManipulations\Excel.cs" />
     <Compile Include="GirlsAgencyContext.cs" />
+    <Compile Include="IContext.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
