@@ -1,6 +1,7 @@
 ﻿using System;
 using System.CodeDom;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,11 +24,22 @@ namespace GirlsAgency.Repository
 
         private GirlsAgencyContext sqlServerContext;
 
+        public Requester Requester{ get; set; }
+
         //takes the contexts from different servers
         public RepositoryController(OracleContext oracleContext, GirlsAgencyContext girlsAgencyContext)
         {
-            this.OracleContext = oracleContext;
-            this.SqlServerContext = girlsAgencyContext;
+
+            //this.OracleContext = oracleContext;
+            //this.SqlServerContext = girlsAgencyContext;
+           // this.Requester = new Requester(new List<IContext>{oracleContext, girlsAgencyContext});
+            this.Requester = new Requester(girlsAgencyContext);
+        }
+
+
+        public void Test(ICollection<Girl> girls )
+        {
+            this.Requester.ImportGirlsToDatabase(girls);
         }
 
         public OracleContext OracleContext

@@ -92,7 +92,7 @@ namespace GirlsAgencyConsoleClient
             girls.Add(girl);
             girls.Add(girl2);
 
-            controller.ImportGirlsToDatabase(girls);
+            controller.Test(girls);
 
 
 
