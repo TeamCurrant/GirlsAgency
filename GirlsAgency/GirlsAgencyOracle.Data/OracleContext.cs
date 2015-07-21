@@ -1,4 +1,5 @@
 using GirlsAgency.Model;
+using GirlsAgency.Repository.Contracts;
 using GirlsAgencyOracle.Data.Migrations;
 
 namespace GirlsAgencyOracle.Data
@@ -7,7 +8,7 @@ namespace GirlsAgencyOracle.Data
     using System.Data.Entity;
     using System.Linq;
 
-    public class OracleContext : DbContext
+    public class OracleContext : DbContext, IContext
     {
         // Your context has been configured to use a 'OracleContext' connection string from your application's 
         // configuration file (App.config or Web.config). By default, this connection string targets the 
@@ -40,10 +41,14 @@ namespace GirlsAgencyOracle.Data
         //public virtual DbSet<HairColor> HairColors { get; set; }
 
         public virtual DbSet<Customer> Customers { get; set; }
+        public void SaveChanges()
+        {
+            base.SaveChanges();
+        }
 
         //public virtual DbSet<City> Cities { get; set; }
 
-       
+        
 
         // Add a DbSet for each entity type that you want to include in your model. For more information 
         // on configuring and using a Code First model, see http://go.microsoft.com/fwlink/?LinkId=390109.
