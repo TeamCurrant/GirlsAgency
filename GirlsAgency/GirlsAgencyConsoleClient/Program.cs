@@ -26,10 +26,10 @@ namespace GirlsAgencyConsoleClient
 
             const string zipPath = @"C:\Users\v.indzhev\Desktop\Bunker.zip";
             const string extractPath = @"C:\Users\v.indzhev\Desktop\Bunker\";
-            ZipFile.ExtractToDirectory(zipPath, extractPath);
+            //ZipFile.ExtractToDirectory(zipPath, extractPath);
 
 
-            var test = ExcelReader.GetExcelInfo();
+            var test = GirlsAgency.Data.FileManipulations.Excel.ExportData(@"C:\Users\v.indzhev\Desktop\Bunker\", @"Importer.xlsx");
             foreach (var t in test)
             {
                 Console.WriteLine(t);

@@ -10,3 +10,4 @@ c:\users\v.indzhev\documents\visual studio 2013\Projects\GirlsAgency.Model\Girls
 c:\users\v.indzhev\documents\visual studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Data\obj\Debug\GirlsAgency.Data.csprojResolveAssemblyReference.cache
 c:\users\v.indzhev\documents\visual studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Data\obj\Debug\GirlsAgency.Data.dll
 c:\users\v.indzhev\documents\visual studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Data\obj\Debug\GirlsAgency.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Data\obj\Debug\GirlsAgency.Data.csproj.ResolveComReference.cache

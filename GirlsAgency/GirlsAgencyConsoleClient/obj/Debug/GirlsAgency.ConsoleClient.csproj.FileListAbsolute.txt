@@ -12,3 +12,4 @@ c:\users\v.indzhev\documents\visual studio 2013\Projects\GirlsAgency.Model\Girls
 c:\users\v.indzhev\documents\visual studio 2013\Projects\GirlsAgency.Model\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csproj.ResolveComReference.cache
 c:\users\v.indzhev\documents\visual studio 2013\Projects\GirlsAgency.Model\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.exe
 c:\users\v.indzhev\documents\visual studio 2013\Projects\GirlsAgency.Model\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csprojResolveAssemblyReference.cache
