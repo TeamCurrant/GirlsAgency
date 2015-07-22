@@ -1,18 +1,15 @@
+using System.Data.Entity.Migrations;
+
 namespace GirlsAgencyOracle.Data.Migrations
 {
-    using System;
-    using System.Data.Entity;
-    using System.Data.Entity.Migrations;
-    using System.Linq;
-
-    internal sealed class Configuration : DbMigrationsConfiguration<GirlsAgencyOracle.Data.OracleContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<OracleContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
         }
 
-        protected override void Seed(GirlsAgencyOracle.Data.OracleContext context)
+        protected override void Seed(OracleContext context)
         {
             //  This method will be called after migrating to the latest version.
 
