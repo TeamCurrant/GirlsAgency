@@ -1,22 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using GirlsAgency.Model;
-
-namespace GirlsAgency.Repository.Contracts
+﻿namespace GirlsAgency.Repository.Contracts
 {
+    using System.Data.Entity;
+    using System.Data.Entity.Infrastructure;
+    using GirlsAgency.Model;
+
     public interface IContext
     {
-        DbSet<Girl> Girls { get; set; }
+        IDbSet<Girl> Girls { get; set; }
 
-        DbSet<Customer> Customers { get; set; }
+        IDbSet<Customer> Customers { get; set; }
 
-        void SaveChanges();
+        int SaveChanges();
 
+        IDbSet<TEntity> Set<TEntity>() where TEntity : class;
+
+        DbEntityEntry<TEntity> Entry<TEntity>(TEntity entity) where TEntity : class;
     }
-
-
 }

@@ -1,19 +1,16 @@
+using System.Data.Entity.Migrations;
+
 namespace GirlsAgency.Data.Migrations
 {
-    using System;
-    using System.Data.Entity;
-    using System.Data.Entity.Migrations;
-    using System.Linq;
-
-    internal sealed class Configuration : DbMigrationsConfiguration<GirlsAgency.Data.GirlsAgencyContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<GirlsAgencyContext>
     {
         public Configuration()
         {
-            this.AutomaticMigrationsEnabled = true;
-            this.ContextKey = "GirlsAgency.Data.GirlsAgencyContext";
+            AutomaticMigrationsEnabled = true;
+            ContextKey = "GirlsAgency.Data.GirlsAgencyContext";
         }
 
-        protected override void Seed(GirlsAgency.Data.GirlsAgencyContext context)
+        protected override void Seed(GirlsAgencyContext context)
         {
             //  This method will be called after migrating to the latest version.
 
