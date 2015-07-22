@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO.Compression;
+using System.Linq;
 using GirlsAgency.Data;
 using GirlsAgency.Model;
 using GirlsAgency.Model.Enums;
-using GirlsAgency.Repository;
+using GirlsAgency.Repository.Repositories;
 using GirlsAgencyOracle.Data;
 
 namespace GirlsAgencyConsoleClient
@@ -46,53 +45,77 @@ namespace GirlsAgencyConsoleClient
             //Console.WriteLine(girlsCount);
 
 
+            
 
 
-
-
-            var oracle = new OracleContext();
+            //var oracle = new OracleContext();
             var sqlServer = new GirlsAgencyContext();
+            var oralcleServer = new OracleContext();
 
-            var controller = new RepositoryController(oracle, sqlServer);
+            var GirlsAgencySqlSystem = new GenericRepository<Girl>(sqlServer);
+            var GirlAgencyOracleSystem = new GenericRepository<Girl>(oralcleServer);
+            
+            int a =  GirlsAgencySqlSystem.GetAll().Count();
+            int b = GirlAgencyOracleSystem.GetAll().Count();
+            Console.WriteLine(b);
 
-            var girl = new Girl()
+            Console.WriteLine(a);
+
+            Console.WriteLine();
+
+
+            //var controller = new RepositoryController(oracle, sqlServer);
+
+            var girl = new Girl
             {
                 FirstName = "Minka",
                 LastName = "Svirchoka",
                 Age = 18,
                 BreastSizeId = (int)BreastSizeEnum.Normal,
                 HairColorId = (int)HairColorEnum.Blonde,
-                PricePerHour = 80.0M,
-                Features = new HashSet<Feature>
-                {
-                    new Feature {Name = GirlsFeaturesEnum.Felatio.ToString()},
-                    new Feature {Name = GirlsFeaturesEnum.DoggyStyle.ToString()}
-                }
+                PricePerHour = 80.0M
+             
             };
 
 
+           // girlRepoSqlServer.Add(girl);
+            GirlAgencyOracleSystem.Add(girl);
 
-            var girl2 = new Girl()
-            {
-                FirstName = "kur",
-                LastName = "Svirchoka",
-                Age = 18,
-                BreastSizeId = (int)BreastSizeEnum.Normal,
-                HairColorId = (int)HairColorEnum.Blonde,
-                PricePerHour = 80.0M,
-                Features = new HashSet<Feature>
-                {
-                    new Feature {Name = GirlsFeaturesEnum.Felatio.ToString()},
-                    new Feature {Name = GirlsFeaturesEnum.DoggyStyle.ToString()}
-                }
-            };
+            GirlAgencyOracleSystem.SaveChanges();
+
+            var gir = GirlAgencyOracleSystem.GetAll().First();
+            //Console.WriteLine(gir.FirstName);
 
 
-            ICollection<Girl> girls = new List<Girl>();
-            girls.Add(girl);
-            girls.Add(girl2);
+           // Console.WriteLine(GirlAgencyOracleSystem.GetEntityAsJson(gir));
 
-            controller.Test(girls);
+            var json= GirlsAgencySqlSystem.GetJson();
+            //var jsonSqlServer = GirlsAgencySqlSystem.GetJson();
+
+            //Console.WriteLine(json);
+
+            Console.WriteLine(json);
+            //var girl2 = new Girl()
+            //{
+            //    FirstName = "kur",
+            //    LastName = "Svirchoka",
+            //    Age = 18,
+            //    BreastSizeId = (int)BreastSizeEnum.Normal,
+            //    HairColorId = (int)HairColorEnum.Blonde,
+            //    PricePerHour = 80.0M,
+            //    Features = new HashSet<Feature>
+            //    {
+            //        new Feature {Name = GirlsFeaturesEnum.Felatio.ToString()},
+            //        new Feature {Name = GirlsFeaturesEnum.DoggyStyle.ToString()}
+            //    }
+            //};
+
+
+            //ICollection<Girl> girls = new List<Girl>();
+            //girls.Add(girl);
+            //girls.Add(girl2);
+
+            //controller.Test(girls);
 
 
 
