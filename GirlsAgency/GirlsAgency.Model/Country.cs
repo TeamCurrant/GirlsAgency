@@ -23,10 +23,10 @@ namespace GirlsAgency.Model
             set { this.cities = value; }
         }
 
-        public virtual ICollection<Girl> Girls
-        {
-            get { return this.girls; }
-            set { this.girls = value; }
-        }
+        //public virtual ICollection<Girl> Girls
+        //{
+        //    get { return this.girls; }
+        //    set { this.girls = value; }
+        //}
     }
 }

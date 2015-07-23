@@ -17,7 +17,7 @@ namespace GirlsAgency.Model
 
         public string Name { get; set; }
 
-        public int CountryId { get; set; }
+       // public int CountryId { get; set; }
 
         public virtual ICollection<Girl> Girls {
             get { return this.girls; }
@@ -29,5 +29,11 @@ namespace GirlsAgency.Model
             get { return this.customers; }
             set { this.customers = value; }
         }
+
+        //public virtual ICollection<Girl> Girls
+        //{
+        //    get { return this.girls; }
+        //    set { this.girls = value; }
+        //}
     }
 }

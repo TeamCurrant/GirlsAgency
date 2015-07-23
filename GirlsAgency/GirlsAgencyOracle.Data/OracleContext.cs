@@ -2,6 +2,7 @@ using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using GirlsAgency.Model;
 using GirlsAgency.Repository.Contracts;
+using GirlsAgencyOracle.Data.Migrations;
 
 namespace GirlsAgencyOracle.Data
 {
@@ -10,7 +11,8 @@ namespace GirlsAgencyOracle.Data
         public OracleContext()
             : base("OracleDbContext")
         {
-            Database.SetInitializer(new DropCreateDatabaseAlways<OracleContext>());
+            //Database.SetInitializer(new DropCreateDatabaseAlways<OracleContext>());
+          Database.SetInitializer(new MigrateDatabaseToLatestVersion<OracleContext, Configuration>());
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

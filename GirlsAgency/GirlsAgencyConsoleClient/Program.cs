@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Linq;
 using GirlsAgency.Data;
+using GirlsAgency.Model;
+using GirlsAgency.Repository.Repositories;
 using GirlsAgencyOracle.Data;
 
 namespace GirlsAgencyConsoleClient
@@ -10,6 +12,22 @@ namespace GirlsAgencyConsoleClient
 
         static void Main()
         {
+            
+            var SqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
+            Console.WriteLine(SqlServerGirslRepo.GetAll().Count());
+
+            //var girl = new Girl()
+            //{
+            //     Age = 20,
+            //}
+
+
+
+
+
+
+
+
             //var context = new GirlsAgencyContext();
             //var girl = new Girl()
             //{
@@ -43,8 +61,8 @@ namespace GirlsAgencyConsoleClient
 
             //XML.ReadXML(@"C:\Users\v.indzhev\Desktop\", @"kovri.xml");
 
-            var context = new GirlsAgencyContext();
-            Console.WriteLine(context.Girls.Count());
+            //var context = new GirlsAgencyContext();
+            //Console.WriteLine(context.Girls.Count());
 
             var context2 = new OracleContext();
             Console.WriteLine(context2.Girls.Count());
