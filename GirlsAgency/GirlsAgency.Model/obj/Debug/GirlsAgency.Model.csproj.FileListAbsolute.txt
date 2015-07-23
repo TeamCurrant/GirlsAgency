@@ -28,3 +28,13 @@ C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Model\bin\Debug\En
 C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.csprojResolveAssemblyReference.cache
 C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.dll
 C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll.config
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.csprojResolveAssemblyReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.pdb

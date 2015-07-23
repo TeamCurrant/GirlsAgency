@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GirlsAgency.Model
 {
@@ -13,7 +14,8 @@ namespace GirlsAgency.Model
             this.girls = new HashSet<Girl>();
         }
 
-        public int Id { get; set; }
+        [Key]
+        public int CountryId { get; set; }
 
         public string Name { get; set; }
 
@@ -23,10 +25,10 @@ namespace GirlsAgency.Model
             set { this.cities = value; }
         }
 
-        //public virtual ICollection<Girl> Girls
-        //{
-        //    get { return this.girls; }
-        //    set { this.girls = value; }
-        //}
+        public virtual ICollection<Girl> Girls
+        {
+            get { return this.girls; }
+            set { this.girls = value; }
+        }
     }
 }
