@@ -137,3 +137,4 @@ C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Deb
 C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
 C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
 C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csproj.ResolveComReference.cache

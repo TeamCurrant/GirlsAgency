@@ -10,12 +10,6 @@ namespace GirlsAgency.Repository.Contracts
 
         IDbSet<Customer> Customers { get; set; }
 
-        IDbSet<Order> Orders { get; set; }
-
-        IDbSet<Country> Countries { get; set; }
-
-        IDbSet<City> Cities { get; set; }
-
         int SaveChanges();
 
         IDbSet<TEntity> Set<TEntity>() where TEntity : class;

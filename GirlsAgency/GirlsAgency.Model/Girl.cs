@@ -1,6 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace GirlsAgency.Model
 {
@@ -30,15 +28,8 @@ namespace GirlsAgency.Model
 
         public int HairColorId { get; set; }
 
-       // [ForeignKey("CityId")]
         public int CityId { get; set; }
 
-
-        public City City { get; set; }
-
-        public Country Country { get; set; }
-
-        [ForeignKey("Country")]
         public int CountyId { get; set; }
 
         public decimal PricePerHour { get; set; }

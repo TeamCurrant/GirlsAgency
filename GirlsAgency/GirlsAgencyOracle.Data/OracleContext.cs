@@ -12,7 +12,7 @@ namespace GirlsAgencyOracle.Data
             : base("OracleDbContext")
         {
             //Database.SetInitializer(new DropCreateDatabaseAlways<OracleContext>());
-            Database.SetInitializer(new MigrateDatabaseToLatestVersion<OracleContext, Configuration>());
+          Database.SetInitializer(new MigrateDatabaseToLatestVersion<OracleContext, Configuration>());
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -31,7 +31,7 @@ namespace GirlsAgencyOracle.Data
         public virtual IDbSet<Country> Countries { get; set; }
 
         public virtual IDbSet<City> Cities { get; set; }
-
+      
         public IDbSet<TEntity> Set<TEntity>() where TEntity : class
         {
             return base.Set<TEntity>();

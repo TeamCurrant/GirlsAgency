@@ -1,6 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace GirlsAgency.Model
 {
@@ -8,7 +6,6 @@ namespace GirlsAgency.Model
     {
         private ICollection<Girl> girls;
         private ICollection<Customer> customers;
-         
  
         public City()
         {
@@ -16,17 +13,11 @@ namespace GirlsAgency.Model
             this.customers = new HashSet<Customer>();
         }
 
-
-        public Country Country { get; set; }
-
-
-        [Key]
-        public int CityId { get; set; }
+        public int Id { get; set; }
 
         public string Name { get; set; }
 
-      //  [ForeignKey("CountryId")]
-        public int CountryId { get; set; }
+       // public int CountryId { get; set; }
 
         public virtual ICollection<Girl> Girls {
             get { return this.girls; }
