@@ -45,16 +45,11 @@ namespace GirlsAgencyConsoleClient
             //context.SaveChanges();
             //Console.WriteLine(girlsCount);
 
-            XML.ReadXML(@"C:\Users\v.indzhev\Desktop\", @"kovri.xml");
+            //XML.ReadXML(@"C:\Users\v.indzhev\Desktop\", @"kovri.xml");
             
             var context = new GirlsAgencyContext();
-            var order = new Order();
-            order.GirlId = 1;
-            order.CustomerId = 1;
-            order.Duration = 2;
-            order.Date = DateTime.Now;
-            context.Orders.Add(order);
-            context.SaveChanges();
+            Console.WriteLine(context.Girls.Count());
+            //context.SaveChanges();
             //var oracle = new OracleContext();
             //var sqlServer = new GirlsAgencyContext();
             //var oralcleServer = new OracleContext();
