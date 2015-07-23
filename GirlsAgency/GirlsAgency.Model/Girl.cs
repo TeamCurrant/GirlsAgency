@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-
-namespace GirlsAgency.Model
+﻿namespace GirlsAgency.Model
 {
     using System.Collections.Generic;
 

@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FileManipulations\Excel.cs" />
+    <Compile Include="FileManipulations\XML.cs" />
     <Compile Include="GirlsAgencyContext.cs" />
     <Compile Include="IContext.cs" />
     <Compile Include="Migrations\Configuration.cs" />

@@ -1,8 +1,8 @@
-﻿using System;
-using GirlsAgency.Model.Enums;
-
-namespace GirlsAgency.Data.FileManipulations
+﻿namespace GirlsAgency.Data.FileManipulations
 {
+    using System;
+    using Model.Enums;
+
     using System.Collections.Generic;
     using System.IO;
     using System.Runtime.InteropServices;
@@ -11,7 +11,7 @@ namespace GirlsAgency.Data.FileManipulations
 
     public static class Excel
     {
-        public static ICollection<Girl> ExportData(string path, string fileName)
+        public static IEnumerable<Girl> ExportData(string path, string fileName)
         {
             var filePathAndExtention = path + fileName;
 
@@ -32,7 +32,7 @@ namespace GirlsAgency.Data.FileManipulations
             return girlsCollection;
         }
 
-        private static ICollection<Girl> ConvertToCollection(object[,] valueArray)
+        private static IEnumerable<Girl> ConvertToCollection(object[,] valueArray)
         {
             var girlsArray = new List<Girl>();
 

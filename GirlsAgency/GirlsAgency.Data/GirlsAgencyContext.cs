@@ -1,8 +1,8 @@
 namespace GirlsAgency.Data
 {
     using System.Data.Entity;
-    using GirlsAgency.Model;
-    using GirlsAgency.Repository.Contracts;
+    using Model;
+    using Repository.Contracts;
 
     public class GirlsAgencyContext : DbContext , IContext
     {
@@ -11,6 +11,9 @@ namespace GirlsAgency.Data
         public virtual IDbSet<Girl> Girls { get; set; }
 
         public virtual IDbSet<Customer> Customers { get; set; }
+
+        public virtual IDbSet<Order> Orders { get; set; }
+
         public IDbSet<TEntity> Set<TEntity>() where TEntity : class
         {
             return base.Set<TEntity>();

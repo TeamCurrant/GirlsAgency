@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using GirlsAgency.Data;
+using GirlsAgency.Data.FileManipulations;
 using GirlsAgency.Model;
 using GirlsAgency.Model.Enums;
 using GirlsAgency.Repository.Repositories;
@@ -44,57 +45,63 @@ namespace GirlsAgencyConsoleClient
             //context.SaveChanges();
             //Console.WriteLine(girlsCount);
 
-
+            XML.ReadXML(@"C:\Users\v.indzhev\Desktop\", @"kovri.xml");
             
-
-
+            var context = new GirlsAgencyContext();
+            var order = new Order();
+            order.GirlId = 1;
+            order.CustomerId = 1;
+            order.Duration = 2;
+            order.Date = DateTime.Now;
+            context.Orders.Add(order);
+            context.SaveChanges();
             //var oracle = new OracleContext();
-            var sqlServer = new GirlsAgencyContext();
-            var oralcleServer = new OracleContext();
+            //var sqlServer = new GirlsAgencyContext();
+            //var oralcleServer = new OracleContext();
 
-            var GirlsAgencySqlSystem = new GenericRepository<Girl>(sqlServer);
-            var GirlAgencyOracleSystem = new GenericRepository<Girl>(oralcleServer);
-            
-            int a =  GirlsAgencySqlSystem.GetAll().Count();
-            int b = GirlAgencyOracleSystem.GetAll().Count();
-            Console.WriteLine(b);
+            //var GirlsAgencySqlSystem = new GenericRepository<Girl>(sqlServer);
+            //var GirlAgencyOracleSystem = new GenericRepository<Girl>(oralcleServer);
 
-            Console.WriteLine(a);
+            //int a =  GirlsAgencySqlSystem.GetAll().Count();
+            //int b = GirlAgencyOracleSystem.GetAll().Count();
+            //Console.WriteLine(b);
 
-            Console.WriteLine();
+            //Console.WriteLine(a);
+
+            //Console.WriteLine();
 
 
             //var controller = new RepositoryController(oracle, sqlServer);
 
-            var girl = new Girl
-            {
-                FirstName = "Minka",
-                LastName = "Svirchoka",
-                Age = 18,
-                BreastSizeId = (int)BreastSizeEnum.Normal,
-                HairColorId = (int)HairColorEnum.Blonde,
-                PricePerHour = 80.0M
-             
-            };
+            //var girl = new Girl
+            //{
+            //    FirstName = "Minka",
+            //    LastName = "Svirchoka",
+            //    Age = 18,
+            //    BreastSizeId = (int)BreastSizeEnum.Normal,
+            //    HairColorId = (int)HairColorEnum.Blonde,
+            //    PricePerHour = 80.0M
+
+            //};
 
 
-           // girlRepoSqlServer.Add(girl);
-            GirlAgencyOracleSystem.Add(girl);
+            // girlRepoSqlServer.Add(girl);
+            //GirlAgencyOracleSystem.Add(girl);
 
-            GirlAgencyOracleSystem.SaveChanges();
+            //GirlAgencyOracleSystem.SaveChanges();
 
-            var gir = GirlAgencyOracleSystem.GetAll().First();
+            //var gir = GirlAgencyOracleSystem.GetAll().First();
             //Console.WriteLine(gir.FirstName);
 
 
-           // Console.WriteLine(GirlAgencyOracleSystem.GetEntityAsJson(gir));
+            // Console.WriteLine(GirlAgencyOracleSystem.GetEntityAsJson(gir));
 
-            var json= GirlsAgencySqlSystem.GetJson();
+            //var json= GirlsAgencySqlSystem.GetJson();
             //var jsonSqlServer = GirlsAgencySqlSystem.GetJson();
 
             //Console.WriteLine(json);
 
-            Console.WriteLine(json);
+            //Console.WriteLine(json);
             //var girl2 = new Girl()
             //{
             //    FirstName = "kur",

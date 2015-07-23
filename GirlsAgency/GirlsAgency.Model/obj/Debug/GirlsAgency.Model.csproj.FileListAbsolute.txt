@@ -1,0 +1,20 @@
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll.config
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.xml
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll.config
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.pdb
