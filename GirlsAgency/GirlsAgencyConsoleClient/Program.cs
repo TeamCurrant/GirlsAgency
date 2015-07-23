@@ -12,14 +12,34 @@ namespace GirlsAgencyConsoleClient
 
         static void Main()
         {
-            
-            var SqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
-            Console.WriteLine(SqlServerGirslRepo.GetAll().Count());
+
+            var context = new GirlsAgencyContext();
+
+            Console.WriteLine(context.Countries.Count());
+
+
+
+            //var sqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
+
+
+
+            //Console.WriteLine(sqlServerGirslRepo.GetAll().Count());
 
             //var girl = new Girl()
             //{
-            //     Age = 20,
-            //}
+            //    BreastSizeId = 1,
+            //    Age = 20,
+            //    CountyId = 2,
+            //    FirstName = "Minka",
+            //    LastName = "Svirkata",
+            //    HairColorId = 4,
+            //    CityId = 1,
+            //    PricePerHour = 2489M
+            //};
+
+            //sqlServerGirslRepo.Add(girl);
+            //sqlServerGirslRepo.SaveChanges();
+
 
 
 
@@ -64,8 +84,8 @@ namespace GirlsAgencyConsoleClient
             //var context = new GirlsAgencyContext();
             //Console.WriteLine(context.Girls.Count());
 
-            var context2 = new OracleContext();
-            Console.WriteLine(context2.Girls.Count());
+            //var context2 = new OracleContext();
+            //Console.WriteLine(context2.Girls.Count());
             //context.SaveChanges();
             //var oracle = new OracleContext();
             //var sqlServer = new GirlsAgencyContext();

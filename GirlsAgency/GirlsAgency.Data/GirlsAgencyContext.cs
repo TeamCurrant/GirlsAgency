@@ -10,8 +10,8 @@ namespace GirlsAgency.Data
     {
         public GirlsAgencyContext() : base("GirlsAgencyContext")
         {
-            Database.SetInitializer(new MigrateDatabaseToLatestVersion<GirlsAgencyContext, Configuration>());
-            //Database.SetInitializer(new DropCreateDatabaseAlways<GirlsAgencyContext>());
+            //Database.SetInitializer(new MigrateDatabaseToLatestVersion<GirlsAgencyContext, Configuration>());
+            Database.SetInitializer(new DropCreateDatabaseAlways<GirlsAgencyContext>());
         }
 
         public virtual IDbSet<Girl> Girls { get; set; }

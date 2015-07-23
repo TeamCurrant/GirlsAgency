@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace GirlsAgency.Model
 {
@@ -17,7 +18,16 @@ namespace GirlsAgency.Model
 
         public string LastName { get; set; }
 
-        public virtual int CityId { get; set; }
+        public virtual City City { get; set; }
+
+        public virtual Country Country { get; set; }
+
+        public int CountryId { get; set; }
+
+        // [ForeignKey("CityId")]
+
+        //virtual
+        public  int CityId { get; set; }
 
         public virtual ICollection<Girl> Girls
         {
