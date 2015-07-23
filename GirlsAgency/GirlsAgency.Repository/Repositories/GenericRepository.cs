@@ -1,12 +1,12 @@
-﻿namespace GirlsAgency.Repository.Repositories
-{
-    using System;
-    using System.Data.Entity;
-    using System.Linq;
-    using System.Linq.Expressions;
-    using GirlsAgency.Repository.Contracts;
-    using System.Web.Script.Serialization;
+﻿using System;
+using System.Data.Entity;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Web.Script.Serialization;
+using GirlsAgency.Repository.Contracts;
 
+namespace GirlsAgency.Repository.Repositories
+{
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
         // TODO check for null exception
@@ -29,7 +29,7 @@
 
         public T GetById(object id)
         {
-            throw new NotImplementedException();
+            return context.Set<T>().Find(id);
         }
 
         public void Add(T entity)

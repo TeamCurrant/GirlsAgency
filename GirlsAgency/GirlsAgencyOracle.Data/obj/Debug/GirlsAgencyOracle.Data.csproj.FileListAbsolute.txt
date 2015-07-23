@@ -46,3 +46,19 @@ C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency
 C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.csprojResolveAssemblyReference.cache
 C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.dll
 C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgencyOracle.Data.dll.config
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\EntityFramework.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgency.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgency.Model.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\EntityFramework.xml
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.csprojResolveAssemblyReference.cache
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.pdb

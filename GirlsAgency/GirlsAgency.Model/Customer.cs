@@ -1,7 +1,7 @@
-﻿namespace GirlsAgency.Model
-{
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
+namespace GirlsAgency.Model
+{
     public class Customer
     {
         private ICollection<Girl> girls;
@@ -17,7 +17,7 @@
 
         public string LastName { get; set; }
 
-        public int CityId { get; set; }
+        public virtual int CityId { get; set; }
 
         public virtual ICollection<Girl> Girls
         {

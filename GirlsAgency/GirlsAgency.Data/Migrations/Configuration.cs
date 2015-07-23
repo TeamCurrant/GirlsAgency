@@ -6,6 +6,7 @@ namespace GirlsAgency.Data.Migrations
     {
         public Configuration()
         {
+            AutomaticMigrationDataLossAllowed = true;
             AutomaticMigrationsEnabled = true;
             ContextKey = "GirlsAgency.Data.GirlsAgencyContext";
         }

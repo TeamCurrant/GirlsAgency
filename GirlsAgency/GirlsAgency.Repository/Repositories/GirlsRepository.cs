@@ -1,8 +1,8 @@
-﻿namespace GirlsAgency.Repository.Repositories
-{
-    using GirlsAgency.Model;
-    using GirlsAgency.Repository.Contracts;
+﻿using GirlsAgency.Model;
+using GirlsAgency.Repository.Contracts;
 
+namespace GirlsAgency.Repository.Repositories
+{
     /// <summary>
     /// Custom repo if someone needed
     /// May contains custom CRUD operations

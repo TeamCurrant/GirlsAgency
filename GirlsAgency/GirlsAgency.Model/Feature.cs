@@ -1,8 +1,7 @@
-﻿namespace GirlsAgency.Model
-{
-    using Enums;
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
+namespace GirlsAgency.Model
+{
     public class Feature
     {
         private ICollection<Girl> girls;

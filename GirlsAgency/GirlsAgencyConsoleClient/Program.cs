@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Linq;
 using GirlsAgency.Data;
-using GirlsAgency.Data.FileManipulations;
-using GirlsAgency.Model;
-using GirlsAgency.Model.Enums;
-using GirlsAgency.Repository.Repositories;
 using GirlsAgencyOracle.Data;
 
 namespace GirlsAgencyConsoleClient
@@ -46,9 +42,12 @@ namespace GirlsAgencyConsoleClient
             //Console.WriteLine(girlsCount);
 
             //XML.ReadXML(@"C:\Users\v.indzhev\Desktop\", @"kovri.xml");
-            
+
             var context = new GirlsAgencyContext();
             Console.WriteLine(context.Girls.Count());
+
+            var context2 = new OracleContext();
+            Console.WriteLine(context2.Girls.Count());
             //context.SaveChanges();
             //var oracle = new OracleContext();
             //var sqlServer = new GirlsAgencyContext();
@@ -118,10 +117,6 @@ namespace GirlsAgencyConsoleClient
             //girls.Add(girl2);
 
             //controller.Test(girls);
-
-
-
-
 
         }
     }

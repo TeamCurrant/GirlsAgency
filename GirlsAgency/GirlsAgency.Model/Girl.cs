@@ -1,7 +1,7 @@
-﻿namespace GirlsAgency.Model
-{
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
+namespace GirlsAgency.Model
+{
     public class Girl
     {
         private ICollection<Feature> features;
@@ -28,9 +28,9 @@
 
         public int HairColorId { get; set; }
 
-        public int CityId { get; set; }
+        public virtual  int CityId { get; set; }
 
-        public int CountyId { get; set; }
+        public virtual  int CountyId { get; set; }
 
         public decimal PricePerHour { get; set; }
 

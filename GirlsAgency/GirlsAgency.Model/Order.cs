@@ -1,10 +1,7 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System;
 
 namespace GirlsAgency.Model
 {
-    using System;
-
     public class Order
     {
 
@@ -14,9 +11,12 @@ namespace GirlsAgency.Model
 
         public int Id { get; set; }
         
-        public virtual int GirlId { get; set; }
+        public virtual Girl Girl { get; set; }
 
-        public virtual int CustomerId { get; set; }
+        public int GirlId { get; set; }
+
+        public int CustomerId { get; set; }
+        public virtual Customer Customer { get; set; }
 
         public int Duration { get; set; }
 

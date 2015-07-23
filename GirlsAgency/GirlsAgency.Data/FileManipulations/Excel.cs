@@ -1,14 +1,13 @@
-﻿namespace GirlsAgency.Data.FileManipulations
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Runtime.InteropServices;
+using GirlsAgency.Model;
+using GirlsAgency.Model.Enums;
+using Microsoft.Office.Interop.Excel;
+
+namespace GirlsAgency.Data.FileManipulations
 {
-    using System;
-    using Model.Enums;
-
-    using System.Collections.Generic;
-    using System.IO;
-    using System.Runtime.InteropServices;
-    using Model;
-    using Microsoft.Office.Interop.Excel;
-
     public static class Excel
     {
         public static IEnumerable<Girl> ExportData(string path, string fileName)

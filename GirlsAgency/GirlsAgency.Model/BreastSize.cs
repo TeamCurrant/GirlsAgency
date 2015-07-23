@@ -1,8 +1,8 @@
-﻿namespace GirlsAgency.Model
-{
-    using Enums;
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using GirlsAgency.Model.Enums;
 
+namespace GirlsAgency.Model
+{
     public class BreastSize
     {
         private ICollection<Girl> girls;

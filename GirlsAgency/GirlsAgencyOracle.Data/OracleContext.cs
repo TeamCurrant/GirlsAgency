@@ -1,10 +1,10 @@
+using System.Data.Entity;
+using System.Data.Entity.ModelConfiguration.Conventions;
+using GirlsAgency.Model;
+using GirlsAgency.Repository.Contracts;
+
 namespace GirlsAgencyOracle.Data
 {
-    using System.Data.Entity;
-    using GirlsAgency.Model;
-    using GirlsAgency.Repository.Contracts;
-
-
     public class OracleContext : DbContext, IContext
     {
         public OracleContext()
@@ -15,6 +15,7 @@ namespace GirlsAgencyOracle.Data
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>();
             modelBuilder.HasDefaultSchema("KUR");
             base.OnModelCreating(modelBuilder);
         }
@@ -22,6 +23,12 @@ namespace GirlsAgencyOracle.Data
         public virtual IDbSet<Girl> Girls { get; set; }
 
         public virtual IDbSet<Customer> Customers { get; set; }
+
+        public virtual IDbSet<Order> Orders { get; set; }
+
+        public virtual IDbSet<Country> Countries { get; set; }
+
+        public virtual IDbSet<City> Cities { get; set; }
       
         public IDbSet<TEntity> Set<TEntity>() where TEntity : class
         {

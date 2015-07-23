@@ -1,7 +1,7 @@
-﻿namespace GirlsAgency.Model
-{
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
+namespace GirlsAgency.Model
+{
     public class Country
     {
         private ICollection<City> cities;

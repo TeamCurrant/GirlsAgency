@@ -1,9 +1,9 @@
-﻿namespace GirlsAgency.Repository.Repositories
-{
-    using System;
-    using System.Linq;
-    using System.Linq.Expressions;
+﻿using System;
+using System.Linq;
+using System.Linq.Expressions;
 
+namespace GirlsAgency.Repository.Repositories
+{
     public interface IGenericRepository<T>
     {
         /// <summary>

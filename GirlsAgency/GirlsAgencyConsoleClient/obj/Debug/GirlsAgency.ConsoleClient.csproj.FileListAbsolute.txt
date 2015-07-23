@@ -43,3 +43,24 @@ C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency
 C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csproj.ResolveComReference.cache
 C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.exe
 C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.exe.config
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csproj.ResolveComReference.cache
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.exe
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.exe
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Model.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csprojResolveAssemblyReference.cache

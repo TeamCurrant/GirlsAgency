@@ -1,9 +1,9 @@
-﻿namespace GirlsAgency.Repository.Contracts
-{
-    using System.Data.Entity;
-    using System.Data.Entity.Infrastructure;
-    using GirlsAgency.Model;
+﻿using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
+using GirlsAgency.Model;
 
+namespace GirlsAgency.Repository.Contracts
+{
     public interface IContext
     {
         IDbSet<Girl> Girls { get; set; }
