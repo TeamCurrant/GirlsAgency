@@ -38,3 +38,13 @@ D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.csprojResolveAssemblyReference.cache
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.dll
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll.config
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.csprojResolveAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.pdb

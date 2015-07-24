@@ -4,6 +4,7 @@ using GirlsAgency.Data;
 using GirlsAgency.Model;
 using GirlsAgency.Repository.Repositories;
 using GirlsAgencyOracle.Data;
+using GirlsAgency.MySQL.Data;
 
 namespace GirlsAgencyConsoleClient
 {
@@ -170,13 +171,19 @@ namespace GirlsAgencyConsoleClient
 
             //controller.Test(girls);
 
-            var cont = new GirlsAgencyContext();
-            Console.WriteLine(cont.Customers.Count());
+            //var cont = new GirlsAgencyContext();
+            //Console.WriteLine(cont.Customers.Count());
 
 
-            var aaa = new GenericRepository<Country>(new GirlsAgencyContext());
-            aaa.Add(new Country { Name = "Kur" });
-            aaa.SaveChanges();
+            //var aaa = new GenericRepository<Country>(new GirlsAgencyContext());
+            //aaa.Add(new Country { Name = "Kur" });
+            //aaa.SaveChanges();
+
+            var ctx = new MySQLContext();
+
+            ctx.Orders.ToList();
+
+            ctx.SaveChanges();
         }
     }
 }

@@ -89,3 +89,28 @@ D:\__SoftUni\zzzGIT\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\G
 D:\__SoftUni\zzzGIT\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csproj.ResolveComReference.cache
 D:\__SoftUni\zzzGIT\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.exe
 D:\__SoftUni\zzzGIT\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.exe.config
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csproj.ResolveComReference.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.exe
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.exe
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Model.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.MySQL.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.MySQL.Data.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll

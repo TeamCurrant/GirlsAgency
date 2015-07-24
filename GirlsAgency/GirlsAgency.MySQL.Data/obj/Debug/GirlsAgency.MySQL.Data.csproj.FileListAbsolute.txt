@@ -1,0 +1,14 @@
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\GirlsAgency.MySQL.Data.dll.config
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\GirlsAgency.MySQL.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\GirlsAgency.MySQL.Data.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\EntityFramework.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\GirlsAgency.Model.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\EntityFramework.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\obj\Debug\GirlsAgency.MySQL.Data.csprojResolveAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\obj\Debug\GirlsAgency.MySQL.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.MySQL.Data\obj\Debug\GirlsAgency.MySQL.Data.pdb

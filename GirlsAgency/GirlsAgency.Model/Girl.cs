@@ -34,9 +34,9 @@ namespace GirlsAgency.Model
         public int CityId { get; set; }
 
 
-        public City City { get; set; }
+        public virtual City City { get; set; }
 
-        public Country Country { get; set; }
+        public virtual Country Country { get; set; }
 
         [ForeignKey("Country")]
         public int CountyId { get; set; }

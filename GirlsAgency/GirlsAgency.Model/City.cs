@@ -17,7 +17,7 @@ namespace GirlsAgency.Model
         }
 
 
-        public Country Country { get; set; }
+        public virtual Country Country { get; set; }
 
 
         [Key]
