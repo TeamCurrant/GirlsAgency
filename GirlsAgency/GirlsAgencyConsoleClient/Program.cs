@@ -2,7 +2,6 @@
 using System.Linq;
 using GirlsAgency.Data;
 using GirlsAgency.Model;
-using GirlsAgency.Repository.FileManipulations;
 using GirlsAgency.Repository.Repositories;
 using GirlsAgencyOracle.Data;
 
@@ -13,14 +12,40 @@ namespace GirlsAgencyConsoleClient
 
         static void Main()
         {
+<<<<<<< HEAD
             
             //var SqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
             //Console.WriteLine(SqlServerGirslRepo.GetAll().Count());
+=======
+
+            var context = new GirlsAgencyContext();
+
+            Console.WriteLine(context.Countries.Count());
+
+
+
+            //var sqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
+
+
+
+            //Console.WriteLine(sqlServerGirslRepo.GetAll().Count());
+>>>>>>> ce61292c133eaff34614613e0d0e17550cbce081
 
             //var girl = new Girl()
             //{
-            //     Age = 20,
-            //}
+            //    BreastSizeId = 1,
+            //    Age = 20,
+            //    CountyId = 2,
+            //    FirstName = "Minka",
+            //    LastName = "Svirkata",
+            //    HairColorId = 4,
+            //    CityId = 1,
+            //    PricePerHour = 2489M
+            //};
+
+            //sqlServerGirslRepo.Add(girl);
+            //sqlServerGirslRepo.SaveChanges();
+
 
 
 
@@ -50,7 +75,11 @@ namespace GirlsAgencyConsoleClient
             ////ZipFile.ExtractToDirectory(zipPath, extractPath);
 
 
+<<<<<<< HEAD
             //var test = Excel.GetRecords(@"C:\Users\v.indzhev\Desktop\Bunker\Importer.xlsx", "Girl");
+=======
+            //var test = GirlsAgency.Data.FileManipulations.Excel.ExportData(@"C:\Users\v.indzhev\Desktop\Bunker\", @"Importer.xlsx");
+>>>>>>> ce61292c133eaff34614613e0d0e17550cbce081
             //foreach (var t in test)
             //{
             //    Console.WriteLine(t);
@@ -60,6 +89,7 @@ namespace GirlsAgencyConsoleClient
             //context.SaveChanges();
             //Console.WriteLine(girlsCount);
 
+<<<<<<< HEAD
             //var context = new GirlsAgencyContext();
             //var orders = XML.Read(@"C:\Users\v.indzhev\Desktop\kovri.xml");
             //foreach (var order in orders)
@@ -68,6 +98,9 @@ namespace GirlsAgencyConsoleClient
             //}
 
             //context.SaveChanges();
+=======
+            //XML.ReadXML(@"C:\Users\v.indzhev\Desktop\", @"kovri.xml");
+>>>>>>> ce61292c133eaff34614613e0d0e17550cbce081
 
             //var context = new GirlsAgencyContext();
             //Console.WriteLine(context.Girls.Count());

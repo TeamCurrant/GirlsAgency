@@ -32,11 +32,6 @@ namespace GirlsAgency.Repository.Repositories
             return context.Set<T>().Find(id);
         }
 
-        public T GetId(string firstName, string lastName)
-        {
-            return null;
-        }
-
         public void Add(T entity)
         {
             ChangeState(entity, EntityState.Added);

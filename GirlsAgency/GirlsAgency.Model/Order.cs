@@ -16,6 +16,7 @@ namespace GirlsAgency.Model
         public int GirlId { get; set; }
 
         public int CustomerId { get; set; }
+
         public virtual Customer Customer { get; set; }
 
         public int Duration { get; set; }
