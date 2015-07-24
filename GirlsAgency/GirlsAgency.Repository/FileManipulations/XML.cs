@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Xml;
@@ -10,12 +11,12 @@ namespace GirlsAgency.Repository.FileManipulations
 {
     public static class XML
     {
-        public static IEnumerable<Order> ReadXML(string xmlPath, string xmlFile)
+        public static void Read(string xmlPath)
         {
-            var reader = new XmlTextReader(xmlPath + xmlFile);
+            var reader = new XmlTextReader(xmlPath);
 
             var xml = new XmlDocument();
-            xml.Load(xmlPath + xmlFile);
+            xml.Load(xmlPath);
             var nodeList = xml.SelectNodes("//Order");
             var count = nodeList.Count;
 
@@ -36,8 +37,19 @@ namespace GirlsAgency.Repository.FileManipulations
             }
 
             var kor = ConvertToCollection(array);
+            ImportOrdersToDatabase(kor);
+        }
 
-            return kor;
+        private static void ImportOrdersToDatabase(IEnumerable<Order> orders)
+        {
+            var sqlRepo = new GenericRepository<Order>(new GirlsAgencyContext());
+
+            foreach (var order in orders)
+            {
+                sqlRepo.Add(order);
+            }
+
+            sqlRepo.SaveChanges();
         }
 
         private static IEnumerable<Order> ConvertToCollection(object[,] valueArray)
@@ -56,8 +68,7 @@ namespace GirlsAgency.Repository.FileManipulations
                 var dateTime = Convert.ToDateTime(valueArray[row, 5]);
 
 
-                var girlId =
-                    sqlGirlRepo.Search(n => n.FirstName == girlFirstName && n.LastName == girlLastName).First().Id;
+                var girlId = sqlGirlRepo.Search(n => n.FirstName == girlFirstName && n.LastName == girlLastName).First().Id;
                 var customerId = sqlCustomerRepo.Search(n => n.FirstName == customerFirstName && n.LastName == customerLastName).First().Id;
                 var order = new Order
                 {

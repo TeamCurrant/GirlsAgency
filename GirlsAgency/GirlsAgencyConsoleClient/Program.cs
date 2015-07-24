@@ -14,8 +14,8 @@ namespace GirlsAgencyConsoleClient
         static void Main()
         {
             
-            var SqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
-            Console.WriteLine(SqlServerGirslRepo.GetAll().Count());
+            //var SqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
+            //Console.WriteLine(SqlServerGirslRepo.GetAll().Count());
 
             //var girl = new Girl()
             //{
@@ -50,24 +50,24 @@ namespace GirlsAgencyConsoleClient
             ////ZipFile.ExtractToDirectory(zipPath, extractPath);
 
 
-            var test = Excel.GetRecords(@"C:\Users\v.indzhev\Desktop\Bunker\Importer.xlsx", "Girl");
-            foreach (var t in test)
-            {
-                Console.WriteLine(((Girl)t).FirstName);
-            }
+            //var test = Excel.GetRecords(@"C:\Users\v.indzhev\Desktop\Bunker\Importer.xlsx", "Girl");
+            //foreach (var t in test)
+            //{
+            //    Console.WriteLine(t);
+            //}
 
             //context.Girls.Add(girl);
             //context.SaveChanges();
             //Console.WriteLine(girlsCount);
 
-            var context = new GirlsAgencyContext();
-            var orders = XML.ReadXML(@"C:\Users\v.indzhev\Desktop\", @"kovri.xml");
-            foreach (var order in orders)
-            {
-                context.Orders.Add(order);
-            }
+            //var context = new GirlsAgencyContext();
+            //var orders = XML.Read(@"C:\Users\v.indzhev\Desktop\kovri.xml");
+            //foreach (var order in orders)
+            //{
+            //    context.Orders.Add(order);
+            //}
 
-            context.SaveChanges();
+            //context.SaveChanges();
 
             //var context = new GirlsAgencyContext();
             //Console.WriteLine(context.Girls.Count());
@@ -144,6 +144,13 @@ namespace GirlsAgencyConsoleClient
 
             //controller.Test(girls);
 
+            var cont = new GirlsAgencyContext();
+            Console.WriteLine(cont.Customers.Count());
+
+
+            var aaa = new GenericRepository<Country>(new GirlsAgencyContext());
+            aaa.Add(new Country { Name = "Kur" });
+            aaa.SaveChanges();
         }
     }
 }
