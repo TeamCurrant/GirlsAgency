@@ -114,3 +114,32 @@ C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\Gi
 C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csprojResolveAssemblyReference.cache
 C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\MySql.Data.Entity.dll
 C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.exe.config
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csproj.ResolveComReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.exe
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgencyConsoleClient.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.exe
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyConsoleClient.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.MySQL.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Repository.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyOracle.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\MySql.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\MySql.Data.Entity.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\MySql.Web.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.MySQL.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgency.Repository.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\GirlsAgencyOracle.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\obj\Debug\GirlsAgency.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\itextsharp.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyConsoleClient\bin\Debug\itextsharp.xml

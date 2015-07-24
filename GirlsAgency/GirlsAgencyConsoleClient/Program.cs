@@ -19,10 +19,11 @@ namespace GirlsAgencyConsoleClient
 //            //Console.WriteLine(SqlServerGirslRepo.GetAll().Count());
 //=======
 
-//            var context = new GirlsAgencyContext();
+              var context = new GirlsAgencyContext();
+              
+              Console.WriteLine(context.Countries.Count());
 
-//            Console.WriteLine(context.Countries.Count());
-
+              Exporters.PDFExporter.ExportGirlsReport(new DateTime(2015, 1, 1), new DateTime(2016, 1, 1));
 
 
             //var sqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
@@ -179,11 +180,11 @@ namespace GirlsAgencyConsoleClient
             //aaa.Add(new Country { Name = "Kur" });
             //aaa.SaveChanges();
 
-            var ctx = new MySQLContext();
+           // var ctx = new MySQLContext();
 
-            ctx.Orders.ToList();
+            //ctx.Orders.ToList();
 
-            ctx.SaveChanges();
+           // ctx.SaveChanges();
         }
     }
 }

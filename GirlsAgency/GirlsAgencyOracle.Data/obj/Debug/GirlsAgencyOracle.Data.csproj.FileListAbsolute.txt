@@ -94,3 +94,19 @@ C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\Gi
 C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.csprojResolveAssemblyReference.cache
 C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.dll
 C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgencyOracle.Data.dll.config
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgencyOracle.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgencyOracle.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgency.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgency.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\EntityFramework.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.csprojResolveAssemblyReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgencyOracle.Data\obj\Debug\GirlsAgencyOracle.Data.pdb
