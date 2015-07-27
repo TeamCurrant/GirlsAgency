@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Data.SQLite;
 using System.Linq;
 using GirlsAgency.Data;
 using GirlsAgency.Model;
 using GirlsAgency.Repository.Repositories;
 using GirlsAgencyOracle.Data;
 using GirlsAgency.MySQL.Data;
+using GirlsAgency.SQLite.Data;
 
 namespace GirlsAgencyConsoleClient
 {
@@ -13,17 +15,69 @@ namespace GirlsAgencyConsoleClient
 
         static void Main()
         {
-//<<<<<<< HEAD
+
+          
+
+
+
+            //zemi taq moma i i sloji procent
+            string firstName = "Minka";
+            string lastName = "Svirchoka";
+
             
+           //need to change database 
+
+            var girlTaxesContext = new GirlsTaxesEntities();
+            Console.WriteLine(girlTaxesContext.GirlsTaxes.Count());
+
+
+            var mySqlGrilRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
+
+
+            var girl = mySqlGrilRepo.Search(g => g.FirstName == firstName && g.LastName == lastName).FirstOrDefault();
+
+            //Console.WriteLine(girl.FirstName);
+
+            //add  tax for the bitch
+
+            int tax = 20;
+
+            
+
+
+            girlTaxesContext.GirlsTaxes.Add(
+                new GirlsTax()
+                {
+                    
+                    GirlName = girl.FirstName + " " + girl.LastName,
+                    Tax = tax
+
+                });
+
+            girlTaxesContext.SaveChanges();
+
+            Console.WriteLine(girlTaxesContext.GirlsTaxes.Count());
+
+
+
+
+
+
+
+
+
+
+//<<<<<<< HEAD
+
 //            //var SqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
 //            //Console.WriteLine(SqlServerGirslRepo.GetAll().Count());
 //=======
 
-              var context = new GirlsAgencyContext();
-              
-              Console.WriteLine(context.Countries.Count());
+            //var context = new GirlsAgencyContext();
 
-              Exporters.PDFExporter.ExportGirlsReport(new DateTime(2015, 1, 1), new DateTime(2016, 1, 1));
+            //Console.WriteLine(context.Countries.Count());
+
+            //Exporters.PDFExporter.ExportGirlsReport(new DateTime(2015, 1, 1), new DateTime(2016, 1, 1));
 
 
             //var sqlServerGirslRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
@@ -180,11 +234,11 @@ namespace GirlsAgencyConsoleClient
             //aaa.Add(new Country { Name = "Kur" });
             //aaa.SaveChanges();
 
-           // var ctx = new MySQLContext();
+            // var ctx = new MySQLContext();
 
             //ctx.Orders.ToList();
 
-           // ctx.SaveChanges();
+            // ctx.SaveChanges();
         }
     }
 }
