@@ -58,3 +58,13 @@ D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\Girl
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.csprojResolveAssemblyReference.cache
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.dll
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll.config
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\bin\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.csprojResolveAssemblyReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Model\obj\Debug\GirlsAgency.Model.pdb

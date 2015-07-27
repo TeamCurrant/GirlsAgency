@@ -16,7 +16,8 @@ namespace GirlsAgencyConsoleClient
         static void Main()
         {
 
-          
+            //Exporters.PDFExporter.ExportGirlsReport("01.01.2015", "01.01.2016");
+            //Exporters.XMLExporter.ExportCitiesReport("01.01.2015", "01.01.2016");
 
 
 
@@ -103,7 +104,7 @@ namespace GirlsAgencyConsoleClient
 
             //var repo = new GenericRepository<Girl>(new GirlsAgencyContext());
 
-            Excel.GetRecords("E:\\fuckoff\\GirlsAgency\\Importer.xlsx", "Girls");
+           // Excel.GetRecords("E:\\fuckoff\\GirlsAgency\\Importer.xlsx", "Girls");
 
             //var context = new GirlsAgencyContext();
             //var girl = new Girl()
