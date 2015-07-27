@@ -278,3 +278,5 @@ D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\Girl
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
 D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb

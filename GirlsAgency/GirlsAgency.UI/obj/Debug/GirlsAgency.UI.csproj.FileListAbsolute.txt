@@ -1,0 +1,8 @@
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UI\bin\Debug\GirlsAgency.UI.exe.config
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UI\bin\Debug\GirlsAgency.UI.exe
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UI\bin\Debug\GirlsAgency.UI.pdb
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UI\obj\Debug\GirlsAgency.UI.Form1.resources
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UI\obj\Debug\GirlsAgency.UI.Properties.Resources.resources
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UI\obj\Debug\GirlsAgency.UI.csproj.GenerateResource.Cache
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UI\obj\Debug\GirlsAgency.UI.exe
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UI\obj\Debug\GirlsAgency.UI.pdb

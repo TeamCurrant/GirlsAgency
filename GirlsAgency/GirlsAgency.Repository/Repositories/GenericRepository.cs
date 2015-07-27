@@ -3,6 +3,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Web.Script.Serialization;
+using GirlsAgency.Model;
 using GirlsAgency.Repository.Contracts;
 
 namespace GirlsAgency.Repository.Repositories
@@ -30,6 +31,11 @@ namespace GirlsAgency.Repository.Repositories
         public T GetById(object id)
         {
             return context.Set<T>().Find(id);
+        }
+
+        public Girl GetByName(string firstName, string lastName)
+        {
+            return context.Girls.FirstOrDefault(g => g.FirstName == firstName && g.LastName == lastName);
         }
 
         public void Add(T entity)

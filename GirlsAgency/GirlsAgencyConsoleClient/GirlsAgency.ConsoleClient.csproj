@@ -115,10 +115,6 @@
       <Project>{279cf670-8006-4031-b9df-e960bff0e5e8}</Project>
       <Name>GirlsAgency.Repository</Name>
     </ProjectReference>
-    <ProjectReference Include="..\GirlsAgency.SQLite.Data\GirlsAgency.SQLite.Data.csproj">
-      <Project>{3413b5c1-a1c9-41b4-a857-2e07729c5103}</Project>
-      <Name>GirlsAgency.SQLite.Data</Name>
-    </ProjectReference>
     <ProjectReference Include="..\GirlsAgencyOracle.Data\GirlsAgencyOracle.Data.csproj">
       <Project>{175a15e7-0868-4605-8daa-2bb1e67380fa}</Project>
       <Name>GirlsAgencyOracle.Data</Name>

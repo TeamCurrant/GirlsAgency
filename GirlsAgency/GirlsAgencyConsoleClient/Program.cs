@@ -6,7 +6,6 @@ using GirlsAgency.Model;
 using GirlsAgency.Repository.Repositories;
 using GirlsAgencyOracle.Data;
 using GirlsAgency.MySQL.Data;
-using GirlsAgency.SQLite.Data;
 
 namespace GirlsAgencyConsoleClient
 {
@@ -20,43 +19,43 @@ namespace GirlsAgencyConsoleClient
 
 
 
-            //zemi taq moma i i sloji procent
-            string firstName = "Minka";
-            string lastName = "Svirchoka";
+           // //zemi taq moma i i sloji procent
+           // string firstName = "Minka";
+           // string lastName = "Svirchoka";
 
             
-           //need to change database 
+           ////need to change database 
 
-            var girlTaxesContext = new GirlsTaxesEntities();
-            Console.WriteLine(girlTaxesContext.GirlsTaxes.Count());
-
-
-            var mySqlGrilRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
+           // var girlTaxesContext = new GirlsTaxesEntities();
+           // Console.WriteLine(girlTaxesContext.GirlsTaxes.Count());
 
 
-            var girl = mySqlGrilRepo.Search(g => g.FirstName == firstName && g.LastName == lastName).FirstOrDefault();
+           // var mySqlGrilRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
 
-            //Console.WriteLine(girl.FirstName);
 
-            //add  tax for the bitch
+           // var girl = mySqlGrilRepo.Search(g => g.FirstName == firstName && g.LastName == lastName).FirstOrDefault();
 
-            int tax = 20;
+           // //Console.WriteLine(girl.FirstName);
+
+           // //add  tax for the bitch
+
+           // int tax = 20;
 
             
 
 
-            girlTaxesContext.GirlsTaxes.Add(
-                new GirlsTax()
-                {
+           // girlTaxesContext.GirlsTaxes.Add(
+           //     new GirlsTax()
+           //     {
                     
-                    GirlName = girl.FirstName + " " + girl.LastName,
-                    Tax = tax
+           //         GirlName = girl.FirstName + " " + girl.LastName,
+           //         Tax = tax
 
-                });
+           //     });
 
-            girlTaxesContext.SaveChanges();
+           // girlTaxesContext.SaveChanges();
 
-            Console.WriteLine(girlTaxesContext.GirlsTaxes.Count());
+           // Console.WriteLine(girlTaxesContext.GirlsTaxes.Count());
 
 
 

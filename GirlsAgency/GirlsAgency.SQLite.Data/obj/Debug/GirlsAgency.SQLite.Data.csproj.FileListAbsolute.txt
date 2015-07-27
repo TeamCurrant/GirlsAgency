@@ -1,0 +1,14 @@
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\GirlsAgency.SQLite.Data.dll.config
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\GirlsAgency.SQLite.Data.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\GirlsAgency.SQLite.Data.pdb
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\EntityFramework.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\EntityFramework.xml
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\obj\Debug\GirlsAgency.SQLite.Data.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\obj\Debug\GirlsAgency.SQLite.Data.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.SQLite.Data\obj\Debug\GirlsAgency.SQLite.Data.pdb
