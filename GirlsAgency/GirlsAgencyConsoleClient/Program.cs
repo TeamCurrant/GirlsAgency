@@ -6,6 +6,7 @@ using GirlsAgency.Model;
 using GirlsAgency.Repository.Repositories;
 using GirlsAgencyOracle.Data;
 using GirlsAgency.MySQL.Data;
+using GirlsAgency.Repository.FileManipulations;
 
 namespace GirlsAgencyConsoleClient
 {
@@ -100,13 +101,9 @@ namespace GirlsAgencyConsoleClient
             //sqlServerGirslRepo.Add(girl);
             //sqlServerGirslRepo.SaveChanges();
 
+            //var repo = new GenericRepository<Girl>(new GirlsAgencyContext());
 
-
-
-
-
-
-
+            Excel.GetRecords("E:\\fuckoff\\GirlsAgency\\Importer.xlsx", "Girls");
 
             //var context = new GirlsAgencyContext();
             //var girl = new Girl()
@@ -149,6 +146,8 @@ namespace GirlsAgencyConsoleClient
 
             //context.SaveChanges();
             //XML.ReadXML(@"C:\Users\v.indzhev\Desktop\", @"kovri.xml");
+
+
 
             //var context = new GirlsAgencyContext();
             //Console.WriteLine(context.Girls.Count());

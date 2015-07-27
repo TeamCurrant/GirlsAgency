@@ -8,6 +8,7 @@ using GirlsAgency.Model;
 using GirlsAgency.Model.Enums;
 using GirlsAgency.Repository.Repositories;
 using Microsoft.Office.Interop.Excel;
+using GirlsAgency.MySQL.Data;
 
 namespace GirlsAgency.Repository.FileManipulations
 {
@@ -115,24 +116,32 @@ namespace GirlsAgency.Repository.FileManipulations
         {
             var sqlRepo = new GenericRepository<Girl>(new GirlsAgencyContext());
 
+            var mySqlRepo = new GenericRepository<Girl>(new MySQLContext());
+
             foreach (var girl in list)
             {
                 sqlRepo.Add(girl);
+                mySqlRepo.Add(girl);
             }
 
             sqlRepo.SaveChanges();
+            mySqlRepo.SaveChanges();
         }
 
         private static void ImportCustomersToDatabase(IEnumerable<Customer> list)
         {
             var sqlRepo = new GenericRepository<Customer>(new GirlsAgencyContext());
 
+            var mySqlRepo = new GenericRepository<Customer>(new MySQLContext());
+
             foreach (var customer in list)
             {
                 sqlRepo.Add(customer);
+                mySqlRepo.Add(customer);
             }
 
             sqlRepo.SaveChanges();
+            mySqlRepo.SaveChanges();
         }
     }
 }

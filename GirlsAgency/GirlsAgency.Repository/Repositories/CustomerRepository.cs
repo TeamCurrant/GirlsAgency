@@ -12,6 +12,7 @@ namespace GirlsAgency.Repository.Repositories
     {
         public CustomerRepository(IContext context) : base(context)
         {
+
         }
     }
 }

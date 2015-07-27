@@ -84,6 +84,10 @@
       <Project>{e77040e3-2394-46b8-983f-d5f9cb7d65f4}</Project>
       <Name>GirlsAgency.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GirlsAgency.MySQL.Data\GirlsAgency.MySQL.Data.csproj">
+      <Project>{01448038-820f-4b21-b0f8-e199c0f97167}</Project>
+      <Name>GirlsAgency.MySQL.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GirlsAgencyOracle.Data\GirlsAgencyOracle.Data.csproj">
       <Project>{175a15e7-0868-4605-8daa-2bb1e67380fa}</Project>
       <Name>GirlsAgencyOracle.Data</Name>
