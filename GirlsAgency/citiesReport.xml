@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cities>
+	<city name="Sofia">
+		<summary date="2-May-2015" total-sum="560.00" />
+		<summary date="28-Jul-2015" total-sum="320.00" />
+		<summary date="1-Aug-2015" total-sum="3000.00" />
+	</city>
+	<city name="Stara Zagora">
+		<summary date="2-May-2015" total-sum="400.00" />
+		<summary date="20-Jul-2015" total-sum="6200.00" />
+	</city>
+	<city name="Ruse">
+		<summary date="2-May-2015" total-sum="100.00" />
+		<summary date="25-Jul-2015" total-sum="90.00" />
+		<summary date="28-Jul-2015" total-sum="400.00" />
+	</city>
+	<city name="Veliko Tyrnovo">
+		<summary date="28-Jul-2015" total-sum="800.00" />
+	</city>
+	<city name="Moscow">
+		<summary date="1-Aug-2015" total-sum="100.00" />
+	</city>
+</cities>

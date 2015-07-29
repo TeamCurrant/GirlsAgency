@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89757214-684C-4DC1-AF1C-64FD6826AA85}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GirlsAgency.UI</RootNamespace>
+    <AssemblyName>GirlsAgency.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_GirlsAgency_Data_GirlsAgencyContextDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_GirlsAgency_Data_GirlsAgencyContextDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="_GirlsAgency_Data_GirlsAgencyContextDataSet.xsc">
+      <DependentUpon>_GirlsAgency_Data_GirlsAgencyContextDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_GirlsAgency_Data_GirlsAgencyContextDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_GirlsAgency_Data_GirlsAgencyContextDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_GirlsAgency_Data_GirlsAgencyContextDataSet.xss">
+      <DependentUpon>_GirlsAgency_Data_GirlsAgencyContextDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GirlsAgency.Data\GirlsAgency.Data.csproj">
+      <Project>{c2eba475-234a-4b0b-a22c-169933d2d20a}</Project>
+      <Name>GirlsAgency.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GirlsAgency.Model\GirlsAgency.Model.csproj">
+      <Project>{e77040e3-2394-46b8-983f-d5f9cb7d65f4}</Project>
+      <Name>GirlsAgency.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GirlsAgency.MySQL.Data\GirlsAgency.MySQL.Data.csproj">
+      <Project>{01448038-820f-4b21-b0f8-e199c0f97167}</Project>
+      <Name>GirlsAgency.MySQL.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GirlsAgency.Repository\GirlsAgency.Repository.csproj">
+      <Project>{279cf670-8006-4031-b9df-e960bff0e5e8}</Project>
+      <Name>GirlsAgency.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GirlsAgency.SQLite.Data\GirlsAgency.SQLite.Data.csproj">
+      <Project>{3413b5c1-a1c9-41b4-a857-2e07729c5103}</Project>
+      <Name>GirlsAgency.SQLite.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GirlsAgencyOracle.Data\GirlsAgencyOracle.Data.csproj">
+      <Project>{175a15e7-0868-4605-8daa-2bb1e67380fa}</Project>
+      <Name>GirlsAgencyOracle.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

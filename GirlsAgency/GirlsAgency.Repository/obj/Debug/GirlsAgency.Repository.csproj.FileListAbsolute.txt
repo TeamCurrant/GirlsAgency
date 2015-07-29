@@ -1,0 +1,397 @@
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll.config
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\DbNetLink.DbNetSuite.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\EntityFramework.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\itextsharp.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\System.Web.Extensions.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\EntityFramework.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\ar-QA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\da-DK\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\de-DE\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\es-ES\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\es-MX\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\fi-FI\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\fr-CA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\fr-FR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\hu-HU\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\it-CH\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\it-IT\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\nb-NO\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\nl-NL\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\nn-NO\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\pl-PL\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\pt-BR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\pt-PT\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\ru-RU\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\sv-SE\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\tr-TR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\uk-UA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\GirlsAgency.Model\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll.config
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\DbNetLink.DbNetSuite.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\itextsharp.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.Extensions.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\ar-QA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\da-DK\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\de-DE\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-ES\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-MX\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\fi-FI\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-CA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-FR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\hu-HU\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-CH\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-IT\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\nb-NO\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\nl-NL\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\nn-NO\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\pl-PL\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-BR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-PT\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\ru-RU\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\sv-SE\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\tr-TR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\uk-UA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll.config
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\DbNetLink.DbNetSuite.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\itextsharp.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.Extensions.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.xml
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\ar-QA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\da-DK\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\de-DE\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-ES\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-MX\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\fi-FI\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-CA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-FR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\hu-HU\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-CH\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-IT\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\nb-NO\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\nl-NL\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\nn-NO\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\pl-PL\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-BR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-PT\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\ru-RU\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\sv-SE\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\tr-TR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\uk-UA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll.config
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\DbNetLink.DbNetSuite.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\itextsharp.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.DataVisualization.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.Extensions.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\ar-QA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\da-DK\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\de-DE\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-ES\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-MX\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\fi-FI\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-CA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-FR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\hu-HU\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-CH\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-IT\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\nb-NO\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\nl-NL\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\nn-NO\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\pl-PL\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-BR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-PT\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\ru-RU\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\sv-SE\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\tr-TR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\uk-UA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\GirlsAgency\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csproj.ResolveComReference.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll.config
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\DbNetLink.DbNetSuite.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\itextsharp.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.Extensions.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\ar-QA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\da-DK\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\de-DE\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-ES\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-MX\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\fi-FI\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-CA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-FR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\hu-HU\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-CH\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-IT\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\nb-NO\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\nl-NL\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\nn-NO\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\pl-PL\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-BR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-PT\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\ru-RU\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\sv-SE\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\tr-TR\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\uk-UA\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csproj.ResolveComReference.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csproj.ResolveComReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll.config
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\DbNetLink.DbNetSuite.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\itextsharp.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.DataVisualization.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.Extensions.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\ar-QA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\da-DK\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\de-DE\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-ES\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-MX\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\fi-FI\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-CA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-FR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\hu-HU\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-CH\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-IT\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\nb-NO\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\nl-NL\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\nn-NO\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\pl-PL\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-BR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-PT\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\ru-RU\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\sv-SE\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\tr-TR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\uk-UA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150724-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll.config
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\DbNetLink.DbNetSuite.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.MySQL.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\itextsharp.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.DataVisualization.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.Extensions.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\MySql.Data.Entity.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.MySQL.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.pdb
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\ar-QA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\da-DK\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\de-DE\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-ES\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-MX\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\fi-FI\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-CA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-FR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\hu-HU\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-CH\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-IT\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\nb-NO\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\nl-NL\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\nn-NO\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\pl-PL\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-BR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-PT\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\ru-RU\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\sv-SE\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\tr-TR\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\uk-UA\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csproj.ResolveComReference.cache
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+D:\__SoftUni\_BackEnd\DatabaseApps\TeamWork\20150727-downloaded\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll.config
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Repository.pdb
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\DbNetLink.DbNetSuite.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\itextsharp.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.DataVisualization.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Web.Extensions.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Data.pdb
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.Model.pdb
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgencyOracle.Data.pdb
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.xml
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\ar-QA\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\da-DK\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\de-DE\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-ES\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\es-MX\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\fi-FI\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-CA\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\fr-FR\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\hu-HU\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-CH\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\it-IT\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\nb-NO\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\nl-NL\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\nn-NO\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\pl-PL\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-BR\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\pt-PT\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\ru-RU\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\sv-SE\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\tr-TR\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\uk-UA\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-CN\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-SG\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\zh-TW\DbNetLink.DbNetSuite.resources.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csprojResolveAssemblyReference.cache
+D:\Girls\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.csproj.ResolveComReference.cache
+D:\Girls\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\obj\Debug\GirlsAgency.Repository.pdb
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\itextsharp.xml
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\ExcelApi.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlAgencyMySql.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.SQLite.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\MySql.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\NetOffice.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\OfficeApi.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Data.SQLite.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\VBIDEApi.dll
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlAgencyMySql.Data.pdb
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\GirlsAgency.SQLite.Data.pdb
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\ExcelApi.xml
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\NetOffice.xml
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\OfficeApi.xml
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\System.Data.SQLite.xml
+D:\Girls\GirlsAgency\GirlsAgency.Repository\bin\Debug\VBIDEApi.xml

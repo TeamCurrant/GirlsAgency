@@ -1,0 +1,147 @@
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\GirlsAgency.Data.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\GirlsAgency.UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\GirlsAgency.UserInterface.csproj.GenerateResource.Cache
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe.config
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.exe
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.baml
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.g.cs
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\App.g.cs
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.g.resources
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\v.indzhev\Documents\Visual Studio 2015\Projects\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csproj.GenerateResource.Cache
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.baml
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.g.cs
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\App.g.cs
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.g.resources
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csproj.GenerateResource.Cache
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.exe
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe.config
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\iliq\Desktop\teamwWrok\trunk\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe.config
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.exe
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.baml
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.g.cs
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\App.g.cs
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.g.resources
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Edu\Documents\Visual Studio 2013\Projects\FuckingProject\GirlsAgency\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csproj.GenerateResource.Cache
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe.config
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.pdb
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.dll
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.pdb
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.pdb
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.pdb
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.pdb
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.baml
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.g.cs
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\App.g.cs
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.g.resources
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csproj.GenerateResource.Cache
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.exe
+C:\Users\v.indzhev\Documents\GitHub\DB-Apps-Teamwokr\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.pdb
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe.config
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.exe
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\WpfApplication1.pdb
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.dll
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.dll
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.MySQL.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\MySql.Data.Entity.dll
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Data.pdb
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Model.pdb
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.Repository.pdb
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgencyOracle.Data.pdb
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.xml
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\bin\Debug\GirlsAgency.MySQL.Data.pdb
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csprojResolveAssemblyReference.cache
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.baml
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\MainWindow.g.cs
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\App.g.cs
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.g.resources
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\GirlsAgency.UserInterface.csproj.GenerateResource.Cache
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.exe
+D:\Girls\GirlsAgency\GirlsAgency.UserInterface\obj\Debug\WpfApplication1.pdb

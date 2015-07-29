@@ -1,0 +1,16 @@
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\GirlAgencyMySql.Data.dll
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\GirlAgencyMySql.Data.pdb
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\obj\Debug\GirlAgencyMySql.Data.dll
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\obj\Debug\GirlAgencyMySql.Data.pdb
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\GirlAgencyMySql.Data.dll.config
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\EntityFramework.dll
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\GirlsAgency.Data.dll
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\GirlsAgency.Model.dll
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\MySql.Data.dll
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\mysql.data.entity.EF6.dll
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\GirlsAgency.Data.pdb
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\GirlsAgency.Model.pdb
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\EntityFramework.xml
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Girls\GirlsAgency\GirlAgencyMySql.Data\obj\Debug\GirlAgencyMySql.Data.csprojResolveAssemblyReference.cache

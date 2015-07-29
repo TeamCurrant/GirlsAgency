@@ -1,0 +1,14 @@
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\GirlsAgency.SQLite.Data.dll.config
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\GirlsAgency.SQLite.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\GirlsAgency.SQLite.Data.pdb
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\EntityFramework.dll
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\System.Data.SQLite.dll
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\EntityFramework.xml
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\bin\Debug\System.Data.SQLite.xml
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\obj\Debug\GirlsAgency.SQLite.Data.csprojResolveAssemblyReference.cache
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\obj\Debug\GirlsAgency.SQLite.Data.dll
+D:\Girls\GirlsAgency\GirlsAgency.SQLite.Data\obj\Debug\GirlsAgency.SQLite.Data.pdb
